@@ -1,6 +1,6 @@
-# Eviden Petshop
+# Contoso Petshop
 
-Eviden as a business has decided to enter the pet shop market. Being a
+Contoso as a business has decided to enter the pet shop market. Being a
 digital-first company, they have decided to build a webshop before opening a
 physical store. They have hired you to build the webshop for them.
 
